@@ -1,4 +1,4 @@
-Generative Neural Networks - Project Repository
+# Generative Neural Networks - Project Repository
 
 Students: Jonas Gann, Christian Teutsch
 
